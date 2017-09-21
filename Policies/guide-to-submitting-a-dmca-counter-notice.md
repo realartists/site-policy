@@ -1,13 +1,16 @@
----
-title: Guide to Submitting a DMCA Counter Notice
-redirect_from:
-  - /dmca-counter-notice-how-to/
-  - /articles/dmca-counter-notice-how-to/
----
+Title: Guide to Submitting a DMCA Counter Notice
+Date: 2017-10-20 23:41
+Modified: 2017-10-20 23:41
+Category: Legal
+Tags: legal, dmca, counter notice
+Slug: policy/guide-to-submitting-a-dmca-counter-notice
+Summary: Guide to Submitting a DMCA Counter Notice
 
-This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
+# Submitting a DMCA Counter Notice
 
-If you believe your content on GitHub was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice. If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action against you before then. Our counter-notice form, set forth below, is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <http://www.copyright.gov>.
+This guide describes the information that Real Artists needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how Real Artists processes DMCA takedown requests, please review our [DMCA Takedown Policy](dmca-takedown-policy.html).
+
+If you believe your content on Ship was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice. If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action against you before then. Our counter-notice form, set forth below, is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <http://www.copyright.gov>.
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
@@ -31,20 +34,20 @@ Sometimes a takedown notice might allege infringement in a way that seems odd or
 These are just a few examples of the complexities of copyright law. Since there are many nuances to the law and some unsettled questions in these types of cases, it is especially important to get professional advice if the infringement allegations do not seem straightforward.
 
 ***A Counter Notice Is A Legal Statement.***
-We require you to fill out all fields of a counter notice completely, because a counter notice is a legal statement — not just to us, but to the complaining party. As we mentioned above, if the complaining party wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain you from engaging in infringing activity relating to the content on GitHub. In other words, you might get sued (and you consent to that in the counter notice).
+We require you to fill out all fields of a counter notice completely, because a counter notice is a legal statement — not just to us, but to the complaining party. As we mentioned above, if the complaining party wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain you from engaging in infringing activity relating to the content on Ship. In other words, you might get sued (and you consent to that in the counter notice).
 
 ***Your Counter Notice Will Be Published.***
-As noted in our [DMCA Takedown Policy](/articles/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/github/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
+As noted in our [DMCA Takedown Policy](dmca-takedown-policy.html#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/realartists/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
 
-***GitHub Isn't The Judge.***
-GitHub exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
+***Real Artists Isn't The Judge.***
+Real Artists exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
 ***Additional Resources.***
 If you need additional help, there are many self-help resources online. Lumen has an informative set of guides on [copyright](https://www.lumendatabase.org/topics/5) and [DMCA safe harbor](https://www.lumendatabase.org/topics/14). If you are involved with an open-source project in need of legal advice, you can contact the [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). And if you think you have a particularly challenging case, non-profit organizations such as the [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) may also be willing to help directly or refer you to a lawyer.
 
 ### Your Counter Notice Must...
 
-1. **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Counter Notice."**
+1. **Include the following statement: "I have read and understand Real Artists' Guide to Filing a DMCA Counter Notice."**
 We won't refuse to process an otherwise complete counter notice if you don't include this statement; however, we will know that you haven't read these guidelines and may ask you to go back and do so.
 
 2. ***Identify the content that was disabled and the location where it appeared.***
@@ -56,21 +59,19 @@ Include your email address, name, telephone number, and physical address.
 4. ***Include the following statement: "I swear, under penalty of perjury, that I have a good-faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."***
 You may also choose to communicate the reasons why you believe there was a mistake or misidentification. If you think of your counter notice as a "note" to the complaining party, this is a chance to explain why they should not take the next step and file a lawsuit in response. This is yet another reason to work with a lawyer when submitting a counter notice.
 
-5. ***Include the following statement: "I consent to the jurisdiction of Federal District Court for the judicial district in which my address is located (if in the United States, otherwise the Northern District of California where GitHub is located), and I will accept service of process from the person who provided the DMCA notification or an agent of such person."***
+5. ***Include the following statement: "I consent to the jurisdiction of Federal District Court for the judicial district in which my address is located (if in the United States, otherwise the Northern District of California where Real Artists is located), and I will accept service of process from the person who provided the DMCA notification or an agent of such person."***
 
 6. **Include your physical or electronic signature.**
 
 ### How to Submit Your Counter Notice
 
-The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
-
-You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
+You can send an email notification to <copyright@realartists.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
 If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it—and the 10-14 day waiting period starts from when we *receive* your counter notice. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 
 ```
-GitHub, Inc
+Real Artists, Inc.
 Attn: DMCA Agent
-88 Colin P Kelly Jr St
-San Francisco, CA. 94107
+PO Box 1267
+Palo Alto, CA 94302
 ```
