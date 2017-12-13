@@ -8,7 +8,7 @@ Summary: Privacy Policy
 
 # Privacy Policy
 
-Effective date: **October 22, 2017**
+Effective date: **December 13, 2017**
 
 Thanks for entrusting Real Artists with your issues, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
